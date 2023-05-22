@@ -1,0 +1,11 @@
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\bin\Debug\ChatDemoClient.exe.config
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\bin\Debug\ChatDemoClient.exe
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\bin\Debug\ChatDemoClient.pdb
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\obj\Debug\ChatDemoClient.csproj.AssemblyReference.cache
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\obj\Debug\ChatDemoClient.csproj.SuggestedBindingRedirects.cache
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\obj\Debug\ChatDemoClient.ChatClient.resources
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\obj\Debug\ChatDemoClient.Properties.Resources.resources
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\obj\Debug\ChatDemoClient.csproj.GenerateResource.cache
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\obj\Debug\ChatDemoClient.csproj.CoreCompileInputs.cache
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\obj\Debug\ChatDemoClient.exe
+D:\Study\c#Project\ChatDemoClient\ChatDemoClient\obj\Debug\ChatDemoClient.pdb
